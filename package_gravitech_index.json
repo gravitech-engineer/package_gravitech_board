@@ -118,7 +118,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Arduino",
-          "url": "http://206.189.87.255/board/index/nano-samd-1.0.0.zip",
+          "url": "https://github.com/gravitech-engineer/package_gravitech_board/blob/master/nano-samd-1.0.0.zip",
           "archiveFileName": "nano-samd-1.0.0.zip",
           "checksum": "SHA-256:84f0283a97bf3ca953c3377dd029ac7952a7f8d3bb57729da30852144d9a0337",
           "size": "2365489",
