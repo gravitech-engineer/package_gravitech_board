@@ -116,7 +116,7 @@
         {
           "name": "Gravitech Boards",
           "architecture": "samd",
-          "version": "1.0.1",
+          "version": "1.0.0",
           "category": "Arduino",
           "url": "https://github.com/gravitech-engineer/package_gravitech_board/blob/master/nano-samd-1.0.0.zip",
           "archiveFileName": "nano-samd-1.0.0.zip",
